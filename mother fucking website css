@@ -1,0 +1,10 @@
+body{
+	background-color: #EEEEEE;
+}
+
+
+# header{
+	background-color: #666ccff;
+	color: white;
+	text-align: center;
+}
